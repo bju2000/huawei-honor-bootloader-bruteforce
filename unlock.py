@@ -13,7 +13,7 @@ import subprocess
 import random
 import string
 
-useletters = False      #set to True to include letters for random code generation
+useletters = True      #set to True to include letters for random code generation
 quickstart = False      #set to True to not need to confirm on script start
 
 def bruteforceBootloader():
